@@ -1,0 +1,15 @@
+D:\Programowanie\C#\KonwersjaRzutowanieInne\obj\Debug\net6.0\KonwersjaRzutowanieInne.csproj.AssemblyReference.cache
+D:\Programowanie\C#\KonwersjaRzutowanieInne\obj\Debug\net6.0\KonwersjaRzutowanieInne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\C#\KonwersjaRzutowanieInne\obj\Debug\net6.0\KonwersjaRzutowanieInne.AssemblyInfoInputs.cache
+D:\Programowanie\C#\KonwersjaRzutowanieInne\obj\Debug\net6.0\KonwersjaRzutowanieInne.AssemblyInfo.cs
+D:\Programowanie\C#\KonwersjaRzutowanieInne\obj\Debug\net6.0\KonwersjaRzutowanieInne.csproj.CoreCompileInputs.cache
+D:\Programowanie\C#\KonwersjaRzutowanieInne\bin\Debug\net6.0\KonwersjaRzutowanieInne.exe
+D:\Programowanie\C#\KonwersjaRzutowanieInne\bin\Debug\net6.0\KonwersjaRzutowanieInne.deps.json
+D:\Programowanie\C#\KonwersjaRzutowanieInne\bin\Debug\net6.0\KonwersjaRzutowanieInne.runtimeconfig.json
+D:\Programowanie\C#\KonwersjaRzutowanieInne\bin\Debug\net6.0\KonwersjaRzutowanieInne.dll
+D:\Programowanie\C#\KonwersjaRzutowanieInne\bin\Debug\net6.0\KonwersjaRzutowanieInne.pdb
+D:\Programowanie\C#\KonwersjaRzutowanieInne\obj\Debug\net6.0\KonwersjaRzutowanieInne.dll
+D:\Programowanie\C#\KonwersjaRzutowanieInne\obj\Debug\net6.0\refint\KonwersjaRzutowanieInne.dll
+D:\Programowanie\C#\KonwersjaRzutowanieInne\obj\Debug\net6.0\KonwersjaRzutowanieInne.pdb
+D:\Programowanie\C#\KonwersjaRzutowanieInne\obj\Debug\net6.0\KonwersjaRzutowanieInne.genruntimeconfig.cache
+D:\Programowanie\C#\KonwersjaRzutowanieInne\obj\Debug\net6.0\ref\KonwersjaRzutowanieInne.dll
